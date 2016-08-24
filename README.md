@@ -52,7 +52,7 @@ then let me know._
 7. Click _Save_.
 
 ####Set up _Embedded Build Status_ for Repo
-![Build status badge](/img/jenkins_badge.png)
+[![Build Status](http://jenkins.chico.liatr.io/job/The%20Best%20Project%20Ever/badge/icon)](http://jenkins.chico.liatr.io/job/The%20Best%20Project%20Ever/)
 
 The build status symbol often seen on a Github repository is normally connected
 to TravisCI or JenkinsCI. We are using JenkinsCI which requires a plugin called
