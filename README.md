@@ -1,8 +1,11 @@
-Christopher Maul
-Scott Gauthreaux
-Matt Dias
-Keeson Benn
-Kieth Dehollande
+Christopher Maul  
+Scott Gauthreaux  
+Matt Dias  
+Keeson Benn  
+Kieth Dehollander  
+
+[![Build Status](http://jenkins.chico.liatr.io/job/The%20Best%20Project%20Ever/badge/icon)](http://jenkins.chico.liatr.io/job/The%20Best%20Project%20Ever/)
+
 ##Hello_Jenkins
 This simple exercise is designed to introduce you to Jenkins and continuous
 integration. This will be done in teams of 5 but we will all be working on one
@@ -52,7 +55,7 @@ then let me know._
 7. Click _Save_.
 
 ####Set up _Embedded Build Status_ for Repo
-[![Build Status](http://jenkins.chico.liatr.io/job/The%20Best%20Project%20Ever/badge/icon)](http://jenkins.chico.liatr.io/job/The%20Best%20Project%20Ever/)
+
 
 The build status symbol often seen on a Github repository is normally connected
 to TravisCI or JenkinsCI. We are using JenkinsCI which requires a plugin called
